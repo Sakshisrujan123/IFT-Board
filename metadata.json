@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Flat Panel Classroom",
+  "description": "An interactive flat panel whiteboard and classroom tool suite with responsive widgets, mathematical canvas templates, subject simulations, slide manager, and an integrated Gemini AI lesson assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
